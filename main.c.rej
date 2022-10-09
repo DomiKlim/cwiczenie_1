@@ -1,0 +1,9 @@
+diff a/main.c b/main.c	(rejected hunks)
+@@ -1,7 +1,6 @@
+ #include <stdio.h>
+ 
+ int policz(int a , int b){
+-    return (a+b)*(a-b);
+     return a*b;
+ }
+ 
